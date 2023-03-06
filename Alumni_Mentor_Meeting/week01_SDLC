@@ -1,0 +1,41 @@
+as a developer, I create some code in my local machine
+Then I think it is ready
+I push it to GitHub
+When I push it, Jenkins (CI tool) picks up the latest code and builds it
+After a successful builds, we got artifact and artifactId
+Then developer now can use the artifact number and deploy the build on the dev server
+
+develop -> push -> build -> deploy
+
+            www.amazon-dev.com
+            www.amazon-test.com
+
+            we are communicating with servers by utilising http protocal
+                get
+                post
+                delete
+                update
+
+                photos, description, price .. submit
+
+SDLC:
+
+    1. company (twitter)
+    2. consultancy (3th party, contractor)
+
+    customer
+    end user
+
+
+    - Requirement gathering (SRS)
+    - Design (SDS, User Stories and Acceptance Criteria)
+    - Develop
+    - Test
+    - Deploy
+        - Env, Deployment, Build
+    - Maintain (add new feature, fix the bugs)
+
+
+    ticket 1 is merged to master branch
+    before ticket is not deployed to production
+    we are committed not to merge

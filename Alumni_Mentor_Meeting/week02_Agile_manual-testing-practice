@@ -1,0 +1,118 @@
+3 Roles
+    - Scrum Master
+        Leads the team
+        Arranges meetings
+        Keeps track of what is happening
+        DSU, Retro
+    - PO
+        Requirements
+        Grooming meeting and Sprint planning meeting
+    - Dev Team
+5 Meetings
+    - Grooming (Refinment) Meeting (every Thursdays)
+        Requiremtns clarification
+        Analising USs
+        PO explains the User stories, requiremetns etc
+        Priorisation
+        Pointing
+    - Sprint Planning Meeting (friday afternoon)
+        Team Capacity, Sprint starts
+    - DSU (Daily Standup Meeting)
+    - Demo Meeting (Sprint Review) (friday morning)
+    - Retro (tuesday)
+3 Artifacts
+    - Sprint Backlog
+    - Product Backlog
+    - Burndown Chart
+
+=====================================
+Step by step
+Communication
+Iteration
+Meetings
+Increment
+Fast??
+
+Welcomes to changes,, Flexable
+
+
+Scrum and Kanban
+
+
+FATHOM3 -
+
+    Kanban
+
+
+    1 fulstack developer
+    1 IOS developer
+    1 And deleoper
+    1 CX designer
+    5 tester (2 of them automation tester)
+
+
+    It was %90 depends n manual testing
+
+
+
+
+
+
+    weak communication
+    testers were not involving in decision making activities
+    there were not pipeline process in place
+    huge code changes in one shot
+    They were not using advantages of automation
+
+
+OAG
+
+    Scrum
+
+
+
+========= ========== =========
+
+Monolitic application - on premis servers
+    1. The bigger the application is, difficult to add new functionalities
+    2. Difficuklt to find the source of the bug and fix
+    3. Difficult to scale
+
+
+Microservices - cloud (scalable, secure, lots of options)
+
+    ecs
+    containers
+    container orchestration
+
+
+
+
+
+    Unit Test: Is the validation of smallest functionalities
+            Are easy to create
+            Fast in implementation
+            Unit test should be isolated (mochito)
+            White box (developers)
+            Tools: Mochito and Junit
+
+    Component Testing
+    Integration Testing
+    System Testing
+
+
+
+DOCKER
+
+
+
+
+--------------------
+
+https://www.guru99.com/manual-testing.html
+
+
+
+
+
+
